@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: eta-container
-        image: devops_repo:latest
+        image: ashoke0804/devops_repo:latest
         ports:
         - containerPort: 8080
 ---
