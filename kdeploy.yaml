@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: eta-container
-        image: sa-ai-webapp
+        image: devops_repo:latest
         ports:
         - containerPort: 8080
 ---
